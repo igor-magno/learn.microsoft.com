@@ -26,5 +26,12 @@
 // This is the first line.
 // This is the second line.
 
+// Console.WriteLine("This is the first line.");
+// Console.WriteLine("This is the second line.");
+
+// Versão com Console.WriteLine() e Console.Write()
 Console.WriteLine("This is the first line.");
-Console.WriteLine("This is the second line.");
+
+Console.Write("This is ");
+Console.Write("the second ");
+Console.Write("line.");
