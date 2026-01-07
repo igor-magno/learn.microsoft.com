@@ -1,0 +1,14 @@
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/bin/Debug/net10.0/Escrever seu primeiro código C#
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/bin/Debug/net10.0/Escrever seu primeiro código C#.deps.json
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/bin/Debug/net10.0/Escrever seu primeiro código C#.runtimeconfig.json
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/bin/Debug/net10.0/Escrever seu primeiro código C#.dll
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/bin/Debug/net10.0/Escrever seu primeiro código C#.pdb
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/Escrever seu primeiro código C#.GeneratedMSBuildEditorConfig.editorconfig
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/Escrever seu primeiro código C#.AssemblyInfoInputs.cache
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/Escrever seu primeiro código C#.AssemblyInfo.cs
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/Escrever seu primeiro código C#.csproj.CoreCompileInputs.cache
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/Escrever seu primeiro código C#.dll
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/refint/Escrever seu primeiro código C#.dll
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/Escrever seu primeiro código C#.pdb
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/Escrever seu primeiro código C#.genruntimeconfig.cache
+/home/magno/Projects/learn.microsoft.com/Escrever seu primeiro código C#/obj/Debug/net10.0/ref/Escrever seu primeiro código C#.dll

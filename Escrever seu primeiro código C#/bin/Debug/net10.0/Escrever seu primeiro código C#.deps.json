@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "Escrever seu primeiro código C#/1.0.0": {
+        "runtime": {
+          "Escrever seu primeiro código C#.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "Escrever seu primeiro código C#/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
