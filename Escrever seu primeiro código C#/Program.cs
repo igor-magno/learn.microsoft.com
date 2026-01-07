@@ -6,3 +6,11 @@
 //      1 Error(s)
 
 // console.WriteLine("Olá, mundo.");
+
+Console.WriteLine("Olá, mundo.");
+
+Console.Write("Congratulations!");
+
+Console.Write(" ");
+
+Console.Write("You wrote your first lines of code.");
